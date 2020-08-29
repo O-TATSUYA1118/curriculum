@@ -1,0 +1,14 @@
+package study;
+
+public class practice {
+
+	public static void main(String[] args) {
+		String firstName = "表";
+    	String lastName = "達也";
+
+    	Study study = new Study();
+//    	study.name_ms(firstName, lastName);
+
+	}
+
+}

@@ -1,0 +1,26 @@
+package study;
+
+public class Calculator {
+	//フィールド変数
+	public int a = 10;
+	public int b = 20;
+	public int c = 30;
+
+	//メソッドたちがおる
+    protected static int plus1(int a) {
+        int one = plus1(a);
+        System.out.println("plusメソッドの引数が一つの場合:" + one);
+		return a + 1;
+    }
+    protected static int plus2(int a, int b) {
+        int two = plus2(a,b);
+        System.out.println("plusメソッドの引数が二つの場合:" + two);
+        return a + b;
+    }
+    protected static int plus3(int a, int b, int c) {
+        int three = plus3(a,b,c);
+        System.out.println("plusメソッドの引数が三つの場合:" +three);
+        return a + b + c;
+    }
+
+}

@@ -1,0 +1,14 @@
+package study;
+
+public class practice {
+
+	public static void main(String[] args) {
+		String firstName = "Tatsuya";
+    	String lastName = "Omote";
+
+    	Study study = new Study();
+    	study.printTriangleArea(firstName, lastName);
+
+	}
+
+}

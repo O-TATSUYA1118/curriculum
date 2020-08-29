@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.lir.aarch64.AArch64LIRFlagsVersioned"/>
+    <fullyQualifiedTypeName name="chapter1.HelloJava"/>
+    <fullyQualifiedTypeName name="lesson_class.waiter"/>
+    <fullyQualifiedTypeName name="lesson_class_2.Hall"/>
+    <fullyQualifiedTypeName name="sun.tools.tree.ThisExpression"/>
+    <fullyQualifiedTypeName name="lesson_class_2.Kitchen"/>
+    <fullyQualifiedTypeName name="lesson_class_2.Staff"/>
+    <fullyQualifiedTypeName name="sun.security.action.GetBooleanAction"/>
+    <fullyQualifiedTypeName name="lesson_class.Chef"/>
+    <fullyQualifiedTypeName name="com.sun.beans.introspect.PropertyInfo.Name"/>
+    <fullyQualifiedTypeName name="study.Study"/>
+    <fullyQualifiedTypeName name="java.lang.Number"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalMonitorStateException"/>
+    <fullyQualifiedTypeName name="study.Account"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.runtime.StaticBaseConstructor"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="study.Calculator"/>
+    <fullyQualifiedTypeName name="study.Task"/>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
+    <fullyQualifiedTypeName name="java.lang.InheritableThreadLocal"/>
+    <fullyQualifiedTypeName name="com.sun.tools.sjavac.comp.dependencies.PublicApiCollector"/>
+    <fullyQualifiedTypeName name="com.sun.accessibility.internal.resources.accessibility"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>
