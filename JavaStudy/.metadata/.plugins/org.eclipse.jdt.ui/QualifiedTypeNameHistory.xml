@@ -23,4 +23,8 @@
     <fullyQualifiedTypeName name="com.sun.tools.sjavac.comp.dependencies.PublicApiCollector"/>
     <fullyQualifiedTypeName name="com.sun.accessibility.internal.resources.accessibility"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="jdk.dynalink.support.SimpleRelinkableCallSite"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.ci.ciConstant"/>
+    <fullyQualifiedTypeName name="fruits.Fruits"/>
+    <fullyQualifiedTypeName name="constants.FruitsConstants"/>
 </qualifiedTypeNameHistroy>
