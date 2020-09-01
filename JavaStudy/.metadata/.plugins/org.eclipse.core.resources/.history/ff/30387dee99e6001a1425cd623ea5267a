@@ -1,9 +1,0 @@
-package study;
-
-public class Study {
-	   public void printTriangleArea(String param, String height) {
-	        String area = param + height;
-	        System.out.println(area);
-	    }
-
-}

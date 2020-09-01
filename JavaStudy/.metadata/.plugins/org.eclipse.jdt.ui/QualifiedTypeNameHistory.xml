@@ -15,16 +15,20 @@
     <fullyQualifiedTypeName name="java.lang.IllegalMonitorStateException"/>
     <fullyQualifiedTypeName name="study.Account"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.runtime.StaticBaseConstructor"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="study.Calculator"/>
     <fullyQualifiedTypeName name="study.Task"/>
     <fullyQualifiedTypeName name="java.lang.Void"/>
     <fullyQualifiedTypeName name="java.lang.InheritableThreadLocal"/>
     <fullyQualifiedTypeName name="com.sun.tools.sjavac.comp.dependencies.PublicApiCollector"/>
     <fullyQualifiedTypeName name="com.sun.accessibility.internal.resources.accessibility"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="jdk.dynalink.support.SimpleRelinkableCallSite"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.ci.ciConstant"/>
     <fullyQualifiedTypeName name="fruits.Fruits"/>
     <fullyQualifiedTypeName name="constants.FruitsConstants"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
 </qualifiedTypeNameHistroy>
