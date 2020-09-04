@@ -9,7 +9,6 @@
     <fullyQualifiedTypeName name="lesson_class_2.Staff"/>
     <fullyQualifiedTypeName name="sun.security.action.GetBooleanAction"/>
     <fullyQualifiedTypeName name="lesson_class.Chef"/>
-    <fullyQualifiedTypeName name="com.sun.beans.introspect.PropertyInfo.Name"/>
     <fullyQualifiedTypeName name="study.Study"/>
     <fullyQualifiedTypeName name="java.lang.Number"/>
     <fullyQualifiedTypeName name="java.lang.IllegalMonitorStateException"/>
@@ -17,9 +16,7 @@
     <fullyQualifiedTypeName name="sun.jvm.hotspot.runtime.StaticBaseConstructor"/>
     <fullyQualifiedTypeName name="study.Calculator"/>
     <fullyQualifiedTypeName name="study.Task"/>
-    <fullyQualifiedTypeName name="java.lang.Void"/>
     <fullyQualifiedTypeName name="java.lang.InheritableThreadLocal"/>
-    <fullyQualifiedTypeName name="com.sun.tools.sjavac.comp.dependencies.PublicApiCollector"/>
     <fullyQualifiedTypeName name="com.sun.accessibility.internal.resources.accessibility"/>
     <fullyQualifiedTypeName name="jdk.dynalink.support.SimpleRelinkableCallSite"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.ci.ciConstant"/>
@@ -27,9 +24,18 @@
     <fullyQualifiedTypeName name="constants.FruitsConstants"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="com.sun.beans.introspect.PropertyInfo.Name"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.virtual.phases.ea.PartialEscapeBlockState.Final"/>
+    <fullyQualifiedTypeName name="check.Check"/>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
+    <fullyQualifiedTypeName name="jdk.jfr.internal.PrivateAccess"/>
+    <fullyQualifiedTypeName name="check.Pet"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.sun.tools.sjavac.comp.dependencies.PublicApiCollector"/>
+    <fullyQualifiedTypeName name="check.RobotPet"/>
+    <fullyQualifiedTypeName name="constants.Constants"/>
 </qualifiedTypeNameHistroy>
