@@ -1,0 +1,53 @@
+body {
+	width: 100%;
+}
+.wrapper {
+    width: 600px;
+    height: 600px;
+	margin: 0 auto;
+}
+.main_yellow {
+    width: 600px;
+    height: 150px;
+    background: #ffff00;
+}
+.main_blue {
+    float: left;
+    width: 200px;
+    height: 150px;
+    background: #33ffff;
+}
+.main_child_red {
+    float: left;
+    width: 200px;
+    height: 150px;
+    background: #ff0000;
+}
+.main_child_dark_blue {
+    float: right;
+    width: 200px;
+    height: 150px;
+    background: #0000ff;
+}
+.main_bottom_green {
+    float: left;
+    width: 450px;
+    height: 150px;
+    background: #00ff00;
+}
+.main_bottom_purple {
+    float: right;
+    width: 150px;
+    height: 150px;
+    background: #ff00ff;
+}
+.footer {
+    width: 600px;
+    height: 150px;
+    background: #33ffff;
+}
+.clearfix:after {
+	content: "";
+	display: block;
+    clear: both;
+}
