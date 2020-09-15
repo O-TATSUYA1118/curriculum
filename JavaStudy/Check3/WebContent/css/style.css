@@ -1,0 +1,29 @@
+.all {
+	padding-bottom: 50px;
+}
+
+.login {
+	background-color: gray;
+	padding: 10px;
+	color: white;
+}
+
+.date {
+	position: absolute;
+	color: brack;
+	float: right;
+	top: 20px;
+	left: 70px;
+	padding: 10px;
+	font-size: 10px;
+}
+
+.all2 {
+	padding-top: 50px;
+}
+
+.ink {
+	background-color: gray;
+	padding: 10px;
+	color: white;
+}

@@ -28,7 +28,6 @@
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="com.sun.beans.introspect.PropertyInfo.Name"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="org.graalvm.compiler.virtual.phases.ea.PartialEscapeBlockState.Final"/>
     <fullyQualifiedTypeName name="check.Check"/>
     <fullyQualifiedTypeName name="java.lang.Void"/>
@@ -38,4 +37,6 @@
     <fullyQualifiedTypeName name="com.sun.tools.sjavac.comp.dependencies.PublicApiCollector"/>
     <fullyQualifiedTypeName name="check.RobotPet"/>
     <fullyQualifiedTypeName name="constants.Constants"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
 </qualifiedTypeNameHistroy>
