@@ -6,8 +6,12 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="Kitchen"/>
+		<item key="selection" value="CONST_MSG_NOT_EXCEPTION_TRIGGER"/>
 		<list key="findhistory">
+			<item value="CONST_MSG_NOT_EXCEPTION_TRIGGER"/>
+			<item value="ArrayIndexOutOfBoundsException"/>
+			<item value="お疲れ"/>
+			<item value="Null"/>
 			<item value="package study;"/>
 			<item value="Kitchen"/>
 			<item value="new"/>
@@ -17,8 +21,8 @@
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="191"/>
-		<item key="DIALOG_Y_ORIGIN" value="248"/>
+		<item key="DIALOG_X_ORIGIN" value="79"/>
+		<item key="DIALOG_Y_ORIGIN" value="237"/>
 		<item key="DIALOG_WIDTH" value="284"/>
 		<item key="DIALOG_HEIGHT" value="408"/>
 		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
