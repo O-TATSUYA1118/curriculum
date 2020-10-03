@@ -6,8 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="CONST_MSG_NOT_EXCEPTION_TRIGGER"/>
+		<item key="selection" value=""/>
 		<list key="findhistory">
+			<item value="AssertStatement"/>
 			<item value="CONST_MSG_NOT_EXCEPTION_TRIGGER"/>
 			<item value="ArrayIndexOutOfBoundsException"/>
 			<item value="お疲れ"/>

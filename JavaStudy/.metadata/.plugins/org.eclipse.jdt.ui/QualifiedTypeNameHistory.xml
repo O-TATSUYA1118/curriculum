@@ -16,7 +16,6 @@
     <fullyQualifiedTypeName name="study.Calculator"/>
     <fullyQualifiedTypeName name="study.Task"/>
     <fullyQualifiedTypeName name="java.lang.InheritableThreadLocal"/>
-    <fullyQualifiedTypeName name="com.sun.accessibility.internal.resources.accessibility"/>
     <fullyQualifiedTypeName name="jdk.dynalink.support.SimpleRelinkableCallSite"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.ci.ciConstant"/>
     <fullyQualifiedTypeName name="fruits.Fruits"/>
@@ -40,7 +39,6 @@
     <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.runtime.StaticBaseConstructor"/>
     <fullyQualifiedTypeName name="vendingmachine.method"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="vendingmachine.message"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
     <fullyQualifiedTypeName name="vendingmachine.products"/>
@@ -53,6 +51,12 @@
     <fullyQualifiedTypeName name="exception.ExException"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="service.EmployeeService"/>
+    <fullyQualifiedTypeName name="com.sun.accessibility.internal.resources.accessibility"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="controller.EmployeeController"/>
+    <fullyQualifiedTypeName name="com.sun.corba.se.impl.orb.ParserTable.TestAcceptor1"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="bean.EmployeeBean"/>
 </qualifiedTypeNameHistroy>
