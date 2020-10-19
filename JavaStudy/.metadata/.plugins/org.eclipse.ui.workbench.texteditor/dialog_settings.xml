@@ -8,6 +8,10 @@
 		<item key="isRegEx" value="false"/>
 		<item key="selection" value=""/>
 		<list key="findhistory">
+			<item value="repository"/>
+			<item value="appfuse"/>
+			<item value="accounts"/>
+			<item value="Expression"/>
 			<item value="AssertStatement"/>
 			<item value="CONST_MSG_NOT_EXCEPTION_TRIGGER"/>
 			<item value="ArrayIndexOutOfBoundsException"/>
